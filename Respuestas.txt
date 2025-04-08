@@ -1,0 +1,6 @@
+2_
+    F_ . No puedo ver tp2_1_2.c . Porque actualmente estoy en otra rama (main) y ese archivo se encuentra en la rama Opcion_2.
+        
+        .La diferencia que noto es que se ven todos los branch ahora .
+
+.       .Lo que veo es que se combinan ambas ramas.
