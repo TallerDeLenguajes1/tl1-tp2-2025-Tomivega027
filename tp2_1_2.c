@@ -8,11 +8,12 @@
 int main(){
 int i;
 double vt[N];
-double *p = vt;
+double *puntero = vt;
     for(i = 0 ; i<N ; i++)
     {
-        *(p + i) = 1 + rand() % 100;
-        printf("%f\n", *(p + i));
+        puntero[i] = 1 + rand() % 100;
+        printf("%f\n", puntero[i]);
     }
+    
     return 0;
 }
